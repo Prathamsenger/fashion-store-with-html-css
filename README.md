@@ -1,2 +1,2 @@
 This is my first code of html/css as a beginner 
-now i have move on to learn javascript
+now i  move on to new topic to learn javascript
